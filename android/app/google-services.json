@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "820367744835",
+    "project_id": "smart-traffic-frontend",
+    "storage_bucket": "smart-traffic-frontend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820367744835:android:8e2cb1be386c99220419f6",
+        "android_client_info": {
+          "package_name": "com.example.smart_traffic_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820367744835-o240i46k2mfhccphrvo7bs85gcjsngkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_traffic_frontend",
+            "certificate_hash": "77c05acefe876d9feb7329805f88c0243e92e109"
+          }
+        },
+        {
+          "client_id": "820367744835-a2b0t3odd76nbgrs2322q8k45mqfhf4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVK-IFyqIG2RcNJ-5wmC9akcGdduhZDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820367744835-a2b0t3odd76nbgrs2322q8k45mqfhf4s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820367744835-90urleu57pcjjm5sesl109p9k6k6chhj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartTrafficFrontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
